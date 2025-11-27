@@ -5,9 +5,9 @@ An app that shows Spotify's current playing song with its lyrics.
 This app connects to the Spotify API to get the user's current playing song data. It displays the album photo, name, artist, and synchronized lyrics.
 
 ## Requirements
-Libraries: pygame, random, math, requests, io, syncedlyrics, re, colorgram and spotipy.
+- Libraries: pygame, random, math, requests, io, syncedlyrics, re, colorgram and spotipy.
 
-A Spotify APP which you can create [here](https://developer.spotify.com/documentation/web-api/concepts/apps)
+- A Spotify APP which you can create [here](https://developer.spotify.com/documentation/web-api/concepts/apps)
 
 ## Installation
 1. Create your Spotify APP
